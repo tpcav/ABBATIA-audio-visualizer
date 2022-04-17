@@ -4,15 +4,16 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "deploy": "gh-pages -d ./dist/client",
+    "deploy": "gh-pages -d dist",
     "watch": "webpack --watch",
     "start": "webpack-dev-server --open",
     "build": "webpack"
   },
   "author": "",
   "license": "ISC",
+  "homepage": "https://tpcav.github.io/test",
   "dependencies": {
+    "deploy": "^1.0.3",
     "glslify": "^7.0.0",
     "three": "^0.139.2"
   },

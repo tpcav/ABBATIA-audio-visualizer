@@ -7,9 +7,9 @@ module.exports = {
     },
     output: {
         filename: '[name].js',
-        path: path.join(__dirname, 'public'),
+        path: path.join(__dirname, 'dist'),
     },
     devServer: {
-        contentBase: path.join(__dirname, 'public')
+        contentBase: path.join(__dirname, 'dist')
     }
 };

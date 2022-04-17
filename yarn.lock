@@ -1168,6 +1168,11 @@
   "resolved" "https://registry.npmjs.org/depd/-/depd-1.1.2.tgz"
   "version" "1.1.2"
 
+"deploy@^1.0.3":
+  "integrity" "sha1-q4RvXiKGEAVFVtm3PfCy9Fr4T7A="
+  "resolved" "https://registry.npmjs.org/deploy/-/deploy-1.0.3.tgz"
+  "version" "1.0.3"
+
 "des.js@^1.0.0":
   "integrity" "sha1-wHTS4qpqipoH29YfmhXCzYPsjsw="
   "resolved" "https://registry.npmjs.org/des.js/-/des.js-1.0.0.tgz"
