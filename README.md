@@ -1,6 +1,6 @@
 # ABBATIA Webcam Audio Visualizer
 
-DEMO: https://thomascavalcante.com
+[DEMO](https://thomascavalcante.com)
 
 ## Credits
 
