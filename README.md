@@ -20,4 +20,4 @@ Follow Codrops: [Twitter](http://www.twitter.com/codrops), [Facebook](http://www
 
 ## Customized by CAV, April 19th, 2022
 
-### for ABBATIA band.
+### for ABBATIA.
