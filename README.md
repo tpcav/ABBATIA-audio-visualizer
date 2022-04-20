@@ -1,11 +1,6 @@
-# Webcam Audio Visualizer
+# ABBATIA Webcam Audio Visualizer
 
-Demo for the tutorial on how to create a Three.js powered audio visualizer that takes input from the webcam.
-
-## Build and run
-
-```npm run-script build```
-```np start``` 
+DEMO
 
 ## Credits
 
@@ -23,4 +18,6 @@ Follow Codrops: [Twitter](http://www.twitter.com/codrops), [Facebook](http://www
 
 [© Codrops 2019](http://www.codrops.com)
 
-# abbatia
+# customized by CAV, April 19th, 2022
+
+# for ABBATIA band.
